@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import Feedback from "./Feedback";
+import DndTest from "./DndTest";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Feedback />
+        <DndTest />
       </div>
     );
   }
